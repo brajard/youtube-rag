@@ -6,6 +6,11 @@ langchain[docarray]
 unstructured
 pdf2image
 pdfminer.six
+pillow-heif
+opencv-python-headless
+unstructured_inference
+pikepdf
+poppler-utils
 docarray
 pydantic==1.10.8
 pytube 
