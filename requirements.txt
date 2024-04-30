@@ -3,6 +3,9 @@ langchain
 langchain-openai
 langchain_pinecone
 langchain[docarray]
+unstructured
+pdf2image
+pdfminer.six
 docarray
 pydantic==1.10.8
 pytube 
